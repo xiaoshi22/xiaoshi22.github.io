@@ -16,14 +16,16 @@
 title: Xiaoshi's Blog
 email: xiaoshiwang22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  A personal blog about cs, math and other fun things :)
+  (Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: https://github.com/xiaoshi22/xiaoshi22.github.io
+  Google search results) and in your feed.xml site description.)
+baseurl: 
 url: https://xiaoshi22.github.io
 twitter_username: username
 github_username: xiaoshi22
-minimal_mistakes_skin: "air" #default
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 search: true
 
 # Build settings
